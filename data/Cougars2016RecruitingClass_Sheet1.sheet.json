@@ -1,95 +1,95 @@
 [
   {
-    "wsufirstname": "Garrett",
-    "wsulastname": "McBroom",
-    "wsuposition": "DE",
-    "wsustars": 2,
-    "wsuheight": "6-3",
-    "wsuweight": 260,
-    "wsuschool": "Northeastern Oklahoma A&M JC",
-    "wsuhometown": "Miami, Okla.",
-    "wsusigned": "x"
-  },
-  {
-    "wsufirstname": "Lyric",
-    "wsulastname": "Bartley",
-    "wsuposition": "DE",
-    "wsustars": 3,
-    "wsuheight": "6-3",
-    "wsuweight": 245,
-    "wsuschool": "Taylorsville HS",
-    "wsuhometown": "Taylorsville, Utah"
-  },
-  {
-    "wsufirstname": "Renard",
-    "wsulastname": "Bell",
-    "wsuposition": "ATH",
-    "wsustars": 3,
-    "wsuheight": "5-10",
-    "wsuweight": 165,
-    "wsuschool": "Cathedral HS",
-    "wsuhometown": "Los Angeles, Calif."
-  },
-  {
-    "wsufirstname": "Danny",
-    "wsulastname": "Bender",
-    "wsuposition": "DE",
-    "wsustars": 2,
-    "wsuheight": "6-4",
-    "wsuweight": 235,
-    "wsuschool": "Valhalla HS",
-    "wsuhometown": "El Cajon, Calif."
-  },
-  {
-    "wsufirstname": "Christian",
-    "wsulastname": "Haangana",
-    "wsuposition": "OL",
-    "wsustars": 2,
-    "wsuheight": "6-6",
-    "wsuweight": 347,
-    "wsuschool": "Milpitas HS",
-    "wsuhometown": "Milpitas, Calif."
-  },
-  {
-    "wsufirstname": "Romello",
-    "wsulastname": "Harris",
-    "wsuposition": "RB",
-    "wsustars": 3,
-    "wsuheight": "5-10",
-    "wsuweight": 173,
-    "wsuschool": "Tulare Union HS",
-    "wsuhometown": "Tulare, Calif."
-  },
-  {
-    "wsufirstname": "Stephen",
-    "wsulastname": "Houston",
-    "wsuposition": "WR",
-    "wsustars": 2,
-    "wsuheight": "6-3",
-    "wsuweight": 185,
-    "wsuschool": "Rio Mesa HS",
-    "wsuhometown": "Oxnard, Calif."
-  },
-  {
-    "wsufirstname": "Isaiah",
-    "wsulastname": "Johnson",
+    "wsufirstname": "Dominick",
+    "wsulastname": "Silvels",
     "wsuposition": "WR",
     "wsustars": 3,
     "wsuheight": "6-3",
     "wsuweight": 190,
-    "wsuschool": "Dwyer HS",
-    "wsuhometown": "West Palm Beach, Fla.",
+    "wsuschool": "Henry Senior HS",
+    "wsuhometown": "San Diego, Calif.",
+  },
+  {
+    "wsufirstname": "Christian",
+    "wsulastname": "Mejia",
+    "wsuposition": "DE",
+    "wsustars": 3,
+    "wsuheight": "6-4",
+    "wsuweight": 220,
+    "wsuschool": "Kailua HS",
+    "wsuhometown": "Kailua, Hawaii"
+  },
+  {
+    "wsufirstname": "Caleb",
+    "wsulastname": "Perry",
+    "wsuposition": "RB",
+    "wsustars": 3,
+    "wsuheight": "5-9",
+    "wsuweight": 175,
+    "wsuschool": "King's HS",
+    "wsuhometown": "Seattle, Wash."
+  },
+  {
+    "wsufirstname": "Robert",
+    "wsulastname": "Valencia",
+    "wsuposition": "OL",
+    "wsustars": 4,
+    "wsuheight": "6-6",
+    "wsuweight": 295,
+    "wsuschool": "CC of San Francisco",
+    "wsuhometown": "San Francisco, Calif."
+  },
+  {
+    "wsufirstname": "Cole",
+    "wsulastname": "Dubots",
+    "wsuposition": "RB",
+    "wsustars": 3,
+    "wsuheight": "6-1",
+    "wsuweight": 185,
+    "wsuschool": "Vista Murrieta HS",
+    "wsuhometown": "Murrieta, Calif."
+  },
+  {
+    "wsufirstname": "Easop",
+    "wsulastname": "Winston",
+    "wsuposition": "WR",
+    "wsustars": 3,
+    "wsuheight": "5-11",
+    "wsuweight": 185,
+    "wsuschool": "CC of San Francisco",
+    "wsuhometown": "San Francisco, Calif."
     "wsusigned": "x"
   },
   {
-    "wsufirstname": "D'jimon",
-    "wsulastname": "Jones",
+    "wsufirstname": "Sean",
+    "wsulastname": "Harper",
     "wsuposition": "DB",
-    "wsustars": 3,
+    "wsustars": 2,
     "wsuheight": "6-1",
-    "wsuweight": 170,
-    "wsuschool": "Federal Way HS",
-    "wsuhometown": "Federal Way, Wash."
+    "wsuweight": 180,
+    "wsuschool": "Holmes CC",
+    "wsuhometown": "Goodman, Miss."
+    "wsusigned": "x"
+  },
+  {
+    "wsufirstname": "Preston",
+    "wsulastname": "Hendry",
+    "wsuposition": "DE",
+    "wsustars": 3,
+    "wsuheight": "6-5",
+    "wsuweight": 235,
+    "wsuschool": "Orange Coast CC",
+    "wsuhometown": "Rancho Santa Margarita, Calif.",
+  },
+  {
+    "wsufirstname": "Quazzel",
+    "wsulastname": "White",
+    "wsuposition": "OL",
+    "wsustars": 3,
+    "wsuheight": "6-4",
+    "wsuweight": 300,
+    "wsuschool": "Lincoln HS",
+    "wsuhometown": "Tacoma, Wash."
   },
   {
     "wsufirstname": "Keenen",
@@ -102,14 +102,14 @@
     "wsuhometown": "Las Vegas, Nev."
   },
   {
-    "wsufirstname": "Isaiah",
-    "wsulastname": "Love",
+    "wsufirstname": "Josh",
+    "wsulastname": "Talbott",
     "wsuposition": "DB",
     "wsustars": 3,
-    "wsuheight": "5-11",
-    "wsuweight": 160,
-    "wsuschool": "West Covina HS",
-    "wsuhometown": "West Covina, Calif."
+    "wsuheight": "6-0",
+    "wsuweight": 175,
+    "wsuschool": "Polytechnic HS",
+    "wsuhometown": "Long Beach, Calif."
   },
   {
     "wsufirstname": "Derek",
@@ -122,14 +122,14 @@
     "wsuhometown": "Los Angeles, Calif."
   },
   {
-    "wsufirstname": "Chima",
-    "wsulastname": "Onyeukwu",
+    "wsufirstname": "Faavae",
+    "wsulastname": "Faavae",
     "wsuposition": "LB",
     "wsustars": 3,
-    "wsuheight": "6-3",
-    "wsuweight": 215,
-    "wsuschool": "Contra Costa CC",
-    "wsuhometown": "San Pablo, Calif."
+    "wsuheight": "6-1",
+    "wsuweight": 210,
+    "wsuschool": "Mater Dei HS",
+    "wsuhometown": "San Diego, Calif."
   },
   {
     "wsufirstname": "Dezmon",
@@ -142,35 +142,34 @@
     "wsuhometown": "San Diego, Calif."
   },
   {
-    "wsufirstname": "Grant",
-    "wsulastname": "Porter",
-    "wsuposition": "WR",
+    "wsufirstname": "Damion",
+    "wsulastname": "Lee",
+    "wsuposition": "ATH",
     "wsustars": 3,
-    "wsuheight": "6-2",
-    "wsuweight": 184,
-    "wsuschool": "Upland HS",
-    "wsuhometown": "Upland, Calif."
+    "wsuheight": "6-1",
+    "wsuweight": 180,
+    "wsuschool": "Palm Springs HS",
+    "wsuhometown": "Palm Springs, Calif."
   },
   {
-    "wsufirstname": "Justus",
-    "wsulastname": "Rogers",
-    "wsuposition": "QB",
+    "wsufirstname": "Kelle",
+    "wsulastname": "Sanders",
+    "wsuposition": "DE",
     "wsustars": 3,
-    "wsuheight": "6-2",
-    "wsuweight": 215,
-    "wsuschool": "Bellevue HS",
-    "wsuhometown": "Bellevue, Wash.",
-    "wsusigned": "x"
+    "wsuheight": "6-5",
+    "wsuweight": 230,
+    "wsuschool": "River Ridge HS",
+    "wsuhometown": "Lacey, Wash.",
   },
   {
-    "wsufirstname": "Liam",
-    "wsulastname": "Ryan",
+    "wsufirstname": "Abraham",
+    "wsulastname": "Lucas",
     "wsuposition": "OL",
-    "wsustars": 2,
-    "wsuheight": "6-6",
-    "wsuweight": 270,
-    "wsuschool": "Damien HS",
-    "wsuhometown": "La Verne, Calif."
+    "wsustars": 3,
+    "wsuheight": "6-8",
+    "wsuweight": 260,
+    "wsuschool": "Archbishop Murphy HS",
+    "wsuhometown": "Everett, Wash."
   },
   {
     "wsufirstname": "Marcus",
@@ -183,35 +182,34 @@
     "wsuhometown": "Rialto, Calif."
   },
   {
-    "wsufirstname": "Robert",
-    "wsulastname": "Taylor",
-    "wsuposition": "DB",
-    "wsustars": 3,
-    "wsuheight": "5-11",
-    "wsuweight": 180,
-    "wsuschool": "City College of San Francisco",
-    "wsuhometown": "San Francisco, Calif."
-  },
-  {
-    "wsufirstname": "Skyler",
-    "wsulastname": "Thomas",
-    "wsuposition": "DB",
-    "wsustars": 2,
-    "wsuheight": "5-11",
-    "wsuweight": 174,
-    "wsuschool": "Citrus Hill HS",
-    "wsuhometown": "Perris, Calif."
-  },
-  {
-    "wsufirstname": "Jalen",
-    "wsulastname": "Thompson",
+    "wsufirstname": "Anthony",
+    "wsulastname": "White Jr.",
     "wsuposition": "ATH",
     "wsustars": 3,
-    "wsuheight": "5-11",
-    "wsuweight": 169,
-    "wsuschool": "Downey HS",
-    "wsuhometown": "Downey, Calif.",
-    "wsusigned": "x"
+    "wsuheight": "6-1",
+    "wsuweight": 170,
+    "wsuschool": "Miami Central HS",
+    "wsuhometown": "Miami, Fla."
+  },
+  {
+    "wsufirstname": "Zaire",
+    "wsulastname": "Webb",
+    "wsuposition": "DB",
+    "wsustars": 3,
+    "wsuheight": "5-10",
+    "wsuweight": 165,
+    "wsuschool": "Duncan U. Fletcher HS",
+    "wsuhometown": "Neptune Beach, Fla."
+  },
+  {
+    "wsufirstname": "Alec",
+    "wsulastname": "Kuzmack",
+    "wsuposition": "OL",
+    "wsustars": 3,
+    "wsuheight": "6-5",
+    "wsuweight": 285,
+    "wsuschool": "Eagle HS",
+    "wsuhometown": "Eagle, Idaho",
   },
   {
     "wsufirstname": "Mason",
@@ -224,14 +222,14 @@
     "wsuhometown": "La Mesa, Calif."
   },
   {
-    "wsufirstname": "Joshua",
-    "wsulastname": "Watson",
-    "wsuposition": "OL",
+    "wsufirstname": "George",
+    "wsulastname": "Hicks",
+    "wsuposition": "DB",
     "wsustars": 3,
-    "wsuheight": "6-5",
-    "wsuweight": 265,
-    "wsuschool": "Cascade HS",
-    "wsuhometown": "Everett, Wash."
+    "wsuheight": "6-0",
+    "wsuweight": 180,
+    "wsuschool": "Cajon HS",
+    "wsuhometown": "San Bernadino, Calif."
   },
   {
     "wsufirstname": "Josiah",
@@ -244,22 +242,22 @@
     "wsuhometown": "Bellingham, Wash."
   },
   {
-    "wsufirstname": "Jihad",
-    "wsulastname": "Woods",
-    "wsuposition": "LB",
-    "wsustars": 3,
-    "wsuheight": "5-11",
-    "wsuweight": 215,
-    "wsuschool": "Helix HS",
-    "wsuhometown": "La Mesa, Calif."
+    "wsufirstname": "Connor",
+    "wsulastname": "Neville",
+    "wsuposition": "QB",
+    "wsustars": 4,
+    "wsuheight": "6-2",
+    "wsuweight": 195,
+    "wsuschool": "Wilsonville HS",
+    "wsuhometown": "Wilsonville, Ore."
   },
   {
-    "wsufirstname": "Nilsson",
-    "wsulastname": "Gaisoa",
+    "wsufirstname": "Dontae",
+    "wsulastname": "Powell",
     "wsuposition": "OL",
-    "wsuheight": "6-5",
-    "wsuweight": 275,
-    "wsuschool": "Kailua",
-    "wsuhometown": "Kailua, Hawaii"
+    "wsuheight": "6-6",
+    "wsuweight": 305,
+    "wsuschool": "Richland HS",
+    "wsuhometown": "Richland, Wash."
   }
 ]
