@@ -8,7 +8,7 @@
     "uwweight": 215,
     "uwschool": "Santa Barbara CC",
     "uwhometown": "Santa Barbara, Calif.",
-    "uwsigned": "Yes"
+    "uwsigned": "x"
   },
   {
     "uwfirstname": "Cole",
@@ -18,8 +18,7 @@
     "uwheight": "6-5",
     "uwweight": 271,
     "uwschool": "St. Mary's HS",
-    "uwhometown": "Stockton, Calif.",
-    "uwsigned": "No"
+    "uwhometown": "Stockton, Calif."
   },
   {
     "uwfirstname": "Joe",
@@ -29,8 +28,7 @@
     "uwheight": "6-6",
     "uwweight": 230,
     "uwschool": "Hazen HS",
-    "uwhometown": "Renton, Wash.",
-    "uwsigned": "No"
+    "uwhometown": "Renton"
   },
   {
     "uwfirstname": "Henry",
@@ -40,8 +38,7 @@
     "uwheight": "6-4",
     "uwweight": 277,
     "uwschool": "Skyline HS",
-    "uwhometown": "Sammamish, Wash.",
-    "uwsigned": "No"
+    "uwhometown": "Sammamish"
   },
   {
     "uwfirstname": "Elijah",
@@ -51,8 +48,7 @@
     "uwheight": "5-10",
     "uwweight": 172,
     "uwschool": "West Linn HS",
-    "uwhometown": "West Linn, Ore.",
-    "uwsigned": "No"
+    "uwhometown": "West Linn, Ore."
   },
   {
     "uwfirstname": "Salvon",
@@ -62,19 +58,17 @@
     "uwheight": "5-11",
     "uwweight": 182,
     "uwschool": "Juanita HS",
-    "uwhometown": "Kirkland, Wash.",
-    "uwsigned": "No"
+    "uwhometown": "Kirkland"
   },
   {
     "uwfirstname": "Cade",
-    "uwlastname": "Otten",
+    "uwlastname": "Otton",
     "uwposition": "TE",
     "uwstars": 3,
     "uwheight": "6-5",
     "uwweight": 225,
     "uwschool": "Tumwater HS",
-    "uwhometown": "Tumwater, Wash.",
-    "uwsigned": "No"
+    "uwhometown": "Tumwater"
   },
   {
     "uwfirstname": "Brandon",
@@ -84,8 +78,7 @@
     "uwheight": "6-1",
     "uwweight": 190,
     "uwschool": "Lutheran HS",
-    "uwhometown": "Orange, Calif.",
-    "uwsigned": "No."
+    "uwhometown": "Orange, Calif."
   },
   {
     "uwfirstname": "Jake",
@@ -95,8 +88,7 @@
     "uwheight": "6-0",
     "uwweight": 190,
     "uwschool": "Monte Vista HS",
-    "uwhometown": "Danville, Calif.",
-    "uwsigned": "No"
+    "uwhometown": "Danville, Calif."
   },
   {
     "uwfirstname": "Ariel",
@@ -106,8 +98,7 @@
     "uwheight": "6-4",
     "uwweight": 200,
     "uwschool": "Folsom HS",
-    "uwhometown": "Folsom, Calif.",
-    "uwsigned": "No"
+    "uwhometown": "Folsom, Calif."
   },
   {
     "uwfirstname": "Ty",
@@ -117,8 +108,7 @@
     "uwheight": "6-3",
     "uwweight": 185,
     "uwschool": "Provo HS",
-    "uwhometown": "Provo, Utah",
-    "uwsigned": "No"
+    "uwhometown": "Provo, Utah"
   },
   {
     "uwfirstname": "Alex",
@@ -128,8 +118,7 @@
     "uwheight": "6-2",
     "uwweight": 180,
     "uwschool": "Sheldon HS",
-    "uwhometown": "Sacramento, Calif.",
-    "uwsigned": "No"
+    "uwhometown": "Sacramento, Calif."
   },
   {
     "uwfirstname": "Hunter",
@@ -139,19 +128,17 @@
     "uwheight": "6-3",
     "uwweight": 235,
     "uwschool": "Eastside Catholic HS",
-    "uwhometown": "Sammamish, Wash.",
-    "uwsigned": "No"
+    "uwhometown": "Sammamish"
   },
   {
-    "uwfirstname": "Marlon",
-    "uwlastname": "Tuipulotu",
-    "uwposition": "DT",
-    "uwstars": 4,
-    "uwheight": "6-2",
-    "uwweight": 280,
-    "uwschool": "Central HS",
-    "uwhometown": "Independence, Ore.",
-    "uwsigned": "No"
+    "uwfirstname": "Ali",
+    "uwlastname": "Gaye",
+    "uwposition": "DE",
+    "uwstars": 3,
+    "uwheight": "6-6",
+    "uwweight": 270,
+    "uwschool": "Edmonds-Woodway",
+    "uwhometown": "Edmonds"
   },
   {
     "uwfirstname": "Keith",
@@ -161,8 +148,7 @@
     "uwheight": "6-1",
     "uwweight": 175,
     "uwschool": "Servite HS",
-    "uwhometown": "Anaheim, Calif.",
-    "uwsigned": "No"
+    "uwhometown": "Anaheim, Calif."
   },
   {
     "uwfirstname": "Terrell",
@@ -172,7 +158,6 @@
     "uwheight": "6-1",
     "uwweight": 175,
     "uwschool": "St. John Bosco HS",
-    "uwhometown": "Bellflower, Calif.",
-    "uwsigned": "No"
+    "uwhometown": "Bellflower, Calif."
   }
 ]
